@@ -1,4 +1,4 @@
 // initialize canvas
-import "/src/utilities/canvas.js";
+import "./src/utilities/canvas.js";
 // load all files
-import "/src/core/game.js";
+import "./src/core/game.js";
